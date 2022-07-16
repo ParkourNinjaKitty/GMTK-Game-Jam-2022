@@ -1,0 +1,26 @@
+[gd_scene format=2]
+
+[node name="Title Menu" type="Control"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Background" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Start Button" type="TextureButton" parent="."]
+margin_left = 462.0
+margin_top = 171.0
+margin_right = 562.0
+margin_bottom = 211.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="pressed" from="Start Button" to="." method="_on_Start_Button_pressed"]
