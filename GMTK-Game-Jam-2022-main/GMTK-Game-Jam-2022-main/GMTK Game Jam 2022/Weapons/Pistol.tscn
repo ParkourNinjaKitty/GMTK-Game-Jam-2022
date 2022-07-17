@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Weapons/Gun.gd" type="Script" id=1]
+[ext_resource path="res://Weapons/pistol.png" type="Texture" id=2]
+
+[node name="Pistol" type="Sprite"]
+texture = ExtResource( 2 )
+centered = false
+offset = Vector2( 0, -30 )
+flip_h = true
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_horizontal_guides_": [ -3.0 ]
+}
+projectileSpeed = 550
+gunLength = 96
