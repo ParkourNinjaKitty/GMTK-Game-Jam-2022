@@ -1,6 +1,0 @@
-[gd_resource type="NavigationPolygon" format=2]
-
-[resource]
-vertices = PoolVector2Array( 1945, 2303, 2501, 2649, -1939, 2865, 983, 2359, 1438, 1143, 1888, 1466, 361, 1466, 886, 1210, -42, 995, 927, 483, -136, 1560, -702, 2156, -1441, 1358, 2434, -903, -984, 524, -1791, -1145, -193, 2416, 282, 1692 )
-polygons = [ PoolIntArray( 0, 1, 2, 3 ), PoolIntArray( 4, 5, 6, 7 ), PoolIntArray( 8, 9, 7, 6, 10 ), PoolIntArray( 10, 6, 11 ), PoolIntArray( 12, 10, 11, 2 ), PoolIntArray( 13, 1, 0, 5 ), PoolIntArray( 13, 5, 4, 9 ), PoolIntArray( 14, 15, 13, 9, 8 ), PoolIntArray( 16, 17, 3 ), PoolIntArray( 16, 3, 2 ), PoolIntArray( 11, 16, 2 ), PoolIntArray( 12, 2, 15 ), PoolIntArray( 14, 12, 15 ) ]
-outlines = [ PoolVector2Array( 2434, -903, -1791, -1145, -1939, 2865, 2501, 2649 ), PoolVector2Array( 927, 483, 886, 1210, 1438, 1143 ), PoolVector2Array( -984, 524, -1441, 1358, -136, 1560, -42, 995 ), PoolVector2Array( -193, 2416, 282, 1692, 983, 2359, 1945, 2303, 1888, 1466, 361, 1466, -702, 2156 ) ]
